@@ -191,7 +191,10 @@ Key Benefits:
 1. git clone https://github.com/alangudi417/customer-dispute-board-report-automation.git
 2. Open the Excel macro-enabled workbook.
     - Enable macros.
-    - Run the desired customer segment macro report.
+3. Update the file paths for:
+    - UDM_Dispute.xlsm
+    - UDM_Notes.xlsx
+4. Run the desired customer segment macro report.
     - The automation will:
         - Open the customer segment dispute workbook
         - Merge dispute notes
@@ -199,3 +202,5 @@ Key Benefits:
         - Generate manager summaries
         - Create processor reports
         - Produce the final Board Report workbook
+
+
