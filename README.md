@@ -141,6 +141,8 @@ G --> H
 ### Customer Summary
 ![Customer Data Summary](images/customer-summary.png)
 
+NOTE: the sample files included in this repository contain anonymized data to protect confidential business information.
+
 ## 📈 Business Problem
 - The dispute management team works with weekly dispute reports organized by customer segment (for example, Africa, Europe, North America, Latin America, and Asia Pacific).
 - Each customer segment has its own dispute workbook containing hundreds or thousands of customer disputes.
